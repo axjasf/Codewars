@@ -1,5 +1,6 @@
 # Find force of gravity between two objects
 # Level 8kyu
+# https://www.codewars.com/kata/reviews/5b65af1485875e82160000d0/groups/5ca3f4bafc099a000195e129
 
 def convert_mass_to_kg(mass, unit) :
     mass = float(mass)
